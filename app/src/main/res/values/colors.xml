@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<!--    App Theme Colors-->
+    <color name="primaryColor">#f44336</color>
+    <color name="primaryLightColor">#ff7961</color>
+    <color name="primaryDarkColor">#ba000d</color>
+    <color name="primaryTextColor">#ffffff</color>
+<!--    Individual style colors-->
+    <color name="primaryLightest">#ffebee</color>
+    <color name="primaryDarkest">#176ad6</color>
+    <color name="EqualButtonsRipple">#0040a4</color>
+    <color name="EditTextNightMode">#2c2c2c</color>
 </resources>
